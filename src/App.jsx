@@ -5,7 +5,6 @@ import { About } from './components/about'
 import { Services } from './components/services'
 import { Gallery } from './components/gallery'
 import { Contact } from './components/contact'
-import {Waves, WavesDown} from './components/waves'
 import JsonData from './data/data.json'
 import SmoothScroll from 'smooth-scroll'
 
@@ -24,9 +23,7 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Waves/>
       <About data={landingPageData.About} />
-      <WavesDown/>
       <Services data={landingPageData.Services} />
       <Gallery />
       <Contact data={landingPageData.Contact} />
