@@ -1,6 +1,6 @@
+import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 import { Navigation } from './components/navigation'
-import { Header } from './components/header'
 import { About } from './components/about'
 import { Services } from './components/services'
 import { Gallery } from './components/gallery'
@@ -21,12 +21,18 @@ const App = () => {
 
   return (
     <div>
-      <Navigation />
-      <Header data={landingPageData.Header} />
-      <About data={landingPageData.About} />
-      <Services data={landingPageData.Services} />
-      <Gallery />
-      <Contact data={landingPageData.Contact} />
+      <BrowserRouter>
+        <Switch>
+          <Route>
+            <Navigation />
+            <About data={landingPageData.About} />
+            <Services data={landingPageData.Services} />
+            <Gallery />
+            <Contact data={landingPageData.Contact} />
+          </Route>
+        </Switch>
+      </BrowserRouter>
+
     </div>
   )
 }
