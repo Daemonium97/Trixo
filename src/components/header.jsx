@@ -1,4 +1,4 @@
-import portada from '../images/portada.jpg'
+
 import '../App.css'
 
 
