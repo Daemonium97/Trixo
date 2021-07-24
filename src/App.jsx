@@ -1,6 +1,6 @@
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import { useState, useEffect } from 'react'
-import {  Navi } from './components/navigation'
+import {  Navigation} from './components/navigation'
 import { About } from './components/about'
 import { Services } from './components/services'
 import { Gallery } from './components/gallery'
@@ -26,7 +26,7 @@ const App = () => {
       <BrowserRouter>
         <Switch>
           <Route>
-           <Navi/>
+           <Navigation/>
             <About data={landingPageData.About} />
             <Services data={landingPageData.Services} />
             <Gallery />
