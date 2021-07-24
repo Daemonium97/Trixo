@@ -1,12 +1,14 @@
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import { useState, useEffect } from 'react'
-import { Navigation } from './components/navigation'
+import {  Navi } from './components/navigation'
 import { About } from './components/about'
 import { Services } from './components/services'
 import { Gallery } from './components/gallery'
 import { Contact } from './components/contact'
 import JsonData from './data/data.json'
 import SmoothScroll from 'smooth-scroll'
+
+
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -24,7 +26,7 @@ const App = () => {
       <BrowserRouter>
         <Switch>
           <Route>
-            <Navigation />
+           <Navi/>
             <About data={landingPageData.About} />
             <Services data={landingPageData.Services} />
             <Gallery />
