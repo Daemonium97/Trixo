@@ -1,5 +1,5 @@
 {
-    "Header": {
+    "Header": { 
 
         "title": "TRIXO LE BRINDA SOLUCIONES INTEGRALES PARA SU EMPRESA EN EL PUNTO DE VENTA.  POR SU AMPLIO  CONOCIMIENTO EN CONSUMO MASIVO Y SU ALCANCE EN LA REGIÓN, LE OFRECEMOS  SERVICIOS DE DISPLAYS, DEMOSTRADORAS, PROMOTORAS Y ACTIVACIÓN EN EL PUNTO DE VENTA ENFOCADOS EN UN ALTO SERVICIO AL CLIENTE Y BRINDANDO INFORMACIÓN POR MEDIO DE TECNOLOGÍA DE AVANZADA.",
         "paragraph": ""
@@ -21,34 +21,34 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fa fa-check-square",
             "name": "Storecheck",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
         },
         {
             "icon": "fa fa-cart-arrow-down",
             "name": "Mercaderistas",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
         },
         {
             "icon": "fa fa-cart-arrow-down",
             "name": "Demos",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
         },
         {
             "icon": "fa fa-cart-arrow-down",
             "name": "Prova",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "fa fa-university",
             "name": "Outsourcing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "fa fa-book",
             "name": "BTL",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
         }
        
 
