@@ -3,7 +3,7 @@ export const Gallery = (props) => {
     <div id='portfolio' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Clientes</h2>
+          <h2>Socios Comerciales</h2>
           <p>
             .....
           </p>

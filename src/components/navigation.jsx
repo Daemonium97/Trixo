@@ -34,23 +34,23 @@ export const Navigation = (props) => {
            
             <li>
               <a href='#about' className='page-scroll'>
-                About
+                Nosotros
               </a>
             </li>
             <li>
               <a href='#services' className='page-scroll'>
-                Services
+                Servicios
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Socios
               </a>
             </li>
             
             <li>
               <a href='#contact' className='page-scroll'>
-                Contact
+                Contacto
               </a>
             </li>
           </ul>

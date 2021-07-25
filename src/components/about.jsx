@@ -20,8 +20,10 @@ export const About = (props) => {
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
-              <h2>Nosotros</h2>
+              <h2>Misión</h2>
               <p>{props.data ? props.data.paragraph : 'loading...'}</p>
+              <h2>Visión</h2>
+              <p>{props.data ? props.data.paragraph2 : 'loading...'}</p>
               <h3>Valores</h3>
               <div className='list-style'>
                 <div className='col-lg-6 col-sm-6 col-xs-12'>
@@ -44,6 +46,7 @@ export const About = (props) => {
                 </div>
               </div>
             </div>
+          
           </div>
         </div>
 

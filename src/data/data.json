@@ -6,7 +6,7 @@
 
     },
     "About": {
-        "paragraph": "La cultura organizacional de TRIXO está definida por su compromiso con las personas que conforman el equipo que sirve a los clientes, proveedores y consumidores finales. El compromiso humano con nuestros clientes va de la mano con el cumplimiento de nuestros principios y valores inspirado en el interés por el mejoramiento de la calidad de vida de cada uno de nuestro equipo.",
+        "paragraph": "Contribuir a cambiar la forma de generar valor a nuestros clientes por medio de nuestros servicios y soluciones, de la forma más eficiente y personalizada posible.",
         "Why": [
             "Honestidad",
             "Colaboración",
@@ -14,6 +14,19 @@
             "Confianza"
         ],
         "Why2": [
+            "Actitud",
+            "Respeto",
+            "Disfrute",
+            "Humildad"
+        ],
+        "paragraph2": "Ser la empresa de servicios en consumo masivo preferida en la región por su calidad en ejecución, atención al cliente y competitividad",
+        "Why3": [
+            "Honestidad",
+            "Colaboración",
+            "Innovación",
+            "Confianza"
+        ],
+        "Why4": [
             "Actitud",
             "Respeto",
             "Disfrute",
